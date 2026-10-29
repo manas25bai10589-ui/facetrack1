@@ -141,13 +141,4 @@ Once launched, open your browser at `http://localhost:8501`.
 
 ---
 
-## 🏆 Hackathon & Placement Pitch Highlights
 
-1. **Applied Computer Vision:** Demonstrates production-grade OpenCV YuNet & SFace ONNX deep neural networks with landmark alignment.
-2. **Product Engineering Maturity:** Rather than building an illegal surveillance tool, the system was designed around regulatory compliance (DPDP Act 2023) from day one.
-3. **B2B Revenue Model:** Scalable SaaS tiering per venue / per camera with high willingness-to-pay from gyms, luxury clubs, and showrooms.
-4. **Zero-Debt / Student Executable:** Buildable on a personal laptop with ₹0 initial infrastructure cost.
-
----
-
-*FaceTrack AI — Built for MSME Idea Hackathon & Academic Systems Engineering.*
