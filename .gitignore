@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# FaceTrack local database & logs
+facetrack.db
+*.log
+
+# Sensitive credentials
+.env
+
+# Streamlit
+.streamlit/secrets.toml
+
+# OS & Editor
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
